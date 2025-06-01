@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Model or data files
+*.h5
+*.pkl
+*.pt
+*.csv
+*.json
+
+# Logs and system
+*.log
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
